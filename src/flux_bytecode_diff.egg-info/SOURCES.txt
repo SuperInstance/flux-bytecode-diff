@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+src/flux_bytecode_diff.egg-info/PKG-INFO
+src/flux_bytecode_diff.egg-info/SOURCES.txt
+src/flux_bytecode_diff.egg-info/dependency_links.txt
+src/flux_bytecode_diff.egg-info/top_level.txt
+src/flux_diff/__init__.py
+src/flux_diff/diff.py
+tests/test_diff.py
